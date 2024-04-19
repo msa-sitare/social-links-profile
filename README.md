@@ -5,10 +5,10 @@ This is a solution to the [social-links in profile challenge on Frontend Mentor]
 
 ### Screenshot
 
-![social-links]()
+![social-links](./designed.PNG)
 
 
 ### Links
 
-- Solution URL: [Repository URL]()
-- Live Site URL: [Live Site URL]()
+- Solution URL: [Repository URL](https://github.com/msa-sitare/social-links-profile)
+- Live Site URL: [Live Site URL](https://msa-sitare.github.io/social-links-profile/)
